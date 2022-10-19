@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diogoflsilva
-- 🐧 Linux User (Fedora Spin KDE Linux)
+- 🐧 Linux User (Arch Linux)
 - 👀 I’m interested in eletronics and programming
 - 🌱 I’m currently learning eletronics and automation engeneering
 - 💞️ I’m looking to collaborate on interesting projects and be helpful
